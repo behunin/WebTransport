@@ -1,6 +1,6 @@
 WebTransport Sample
 ===
-See https://googlechrome.github.io/samples/webtransport/client.html for a live demo of the client.
+See https://behunin.github.io/WebTransport/client.html for a live demo of the client.
 
 There's code for a sample local server at https://github.com/GoogleChrome/samples/blob/gh-pages/webtransport/quic_transport_server.py
 
